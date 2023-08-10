@@ -10,8 +10,6 @@ Development of Blood Viscometer
 - CIS 1 : 왼쪽 관에 액체가 채워진 후 점차 오른쪽 관으로 이동할 때 측정되는 액체의 높이
 - CIS 2 : 왼쪽 관으로부터 오른쪽 관으로 차오를때 액체의 높이
 - Radius : 양쪽 관으로 부터 액체가 이동되는 관의 내경
-
-![image](https://github.com/KR-ESWord/BloodViscometer/assets/59715960/4269fad6-85f9-4800-8a3e-93cdb190f6eb)
 - Shear Rate : 측정 종료 후 유체역학 수식에 따른 시간의 변화에 따른 혈액점도 변화
 
 # Deep Learning Method
